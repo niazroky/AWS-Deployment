@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'blogtutorial.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'djangoblog',
+        'NAME': 'test_with_django',
         'USER': 'admin',
         'PASSWORD': 'password',
         'HOST': 'localhost',
